@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJNIb9vbdO/006Rka1JvpgzLZWO1/XCgblvFsBFFTly4pY6csw40YmBGq43VaoEnr4LxVI/vCW9VTMjQI3OE3g==",
+  "success": true,
+  "projectFilePath": "D:\\Muntazer Data\\Learning\\MetaphorSolution\\MetaphorSolution\\MetaphorSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muntazer.mehdi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

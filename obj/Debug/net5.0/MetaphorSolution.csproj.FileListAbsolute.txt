@@ -1,0 +1,16 @@
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\bin\Debug\net5.0\MetaphorSolution.exe
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\bin\Debug\net5.0\MetaphorSolution.deps.json
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\bin\Debug\net5.0\MetaphorSolution.runtimeconfig.json
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\bin\Debug\net5.0\MetaphorSolution.runtimeconfig.dev.json
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\bin\Debug\net5.0\MetaphorSolution.dll
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\bin\Debug\net5.0\ref\MetaphorSolution.dll
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\bin\Debug\net5.0\MetaphorSolution.pdb
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.csproj.AssemblyReference.cache
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.AssemblyInfoInputs.cache
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.AssemblyInfo.cs
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.csproj.CoreCompileInputs.cache
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.dll
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\ref\MetaphorSolution.dll
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.pdb
+D:\Muntazer Data\Learning\MetaphorSolution\MetaphorSolution\obj\Debug\net5.0\MetaphorSolution.genruntimeconfig.cache
