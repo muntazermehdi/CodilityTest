@@ -23,7 +23,7 @@ namespace MetaphorSolution
             //        Console.WriteLine("Result:" + BinaryGap.findBinaryGap(number));
             //    }
             //}
-            AddNumbersGoogle.Process();
+            FrogRiverOne.Process();
 
         }
     }

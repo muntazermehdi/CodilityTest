@@ -44,8 +44,33 @@ namespace MetaphorSolution
 
             int result = 0;
 
-            result = findEarliestTime(X, inputArray);
+            //result = findEarliestTime(X, inputArray);
+            result = solutionFrogRiverShahzad(X, inputArray);
             Console.WriteLine("Result:" + result);
+        }
+
+        public static int solutionFrogRiverShahzad(int X, int[] A)
+        {
+            HashSet<int> nums = new HashSet<int>();
+            for (int i = 1; i <= X; i++)
+            {
+                nums.Add(i);
+            }
+
+            for (int i = 0; i < A.Length; i++)
+            {
+
+                if (nums.Remove(A[i]))
+                {
+                    if (nums.Count == 0)
+                    {
+                        return i;
+                    }
+                }
+
+            }
+
+            return -1;
         }
     }
 
